@@ -1,0 +1,134 @@
+MK_ETMS
+Employee transportation management to the next level with end-to-end automation.
+
+Transportation manager can view, manage and track all trip activity from a central dashboard.
+Live dashboard
+	Search by Trip ID / Search by Vehicle ID / Search by Employee ID / Employee Name
+	Delayed Vehicles live
+	Ongoing Planned trips live
+	trip sheets Pending push to Driver
+	Trip sheets Rejected Vendor
+	Drop Safe Confirmation
+	Calls to Driver via Masked Number
+	Live Tracking
+	Auto Allocation of Escort for Lady Traveller
+	Panic Alarm Button for Employee & Driver App
+	Instant Alert for Vehicle Deviation
+Command Centre: Transportation admins get a powerful web panel to manage all employee transportation activities centrally.
+Trip Tracking: Admin can track all ongoing trips with relevant details in one place.
+Manage Rosters: Admin can create daily, weekly and monthly rosters for all types of employee transportation needs.
+Multiple Scheduling Options
+•	We have multiple options for Scheduling options.
+•	Self Scheduling by Employee on App
+•	Admin / Team Manager Scheduling in bulk
+•	Adhoc or late night booking by employee on app
+•	Airport Pickup or Drop by employee on app
+•	RAC booking options
+•	Team outing booking on app
+Manage Routes: create predefined routes with pick and drop points. 
+	Intelligent Route Planning The system should automatically determine the most efficient routes considering various factors like traffic conditions, distance, time of day, and employee locations.
+	Dynamic Routing: The system must be able to adapt to real-time changes like traffic congestion, road closures, or last-minute employee requests by dynamically adjusting routes for optimal navigation.
+	Predictive Traffic Analysis: Leverage historical and real-time traffic data to forecast traffic patterns, including peak hours and special events, and provide alternative routes to avoid congestion. 
+	Fair Vendor Allocation: Implement logic to ensure equitable allocation of trips among vendors, fostering fairness and promoting healthy competition.
+	Built -in algorithm ensures minimizing the distance and maximizing vehicle occupancy
+	The intelligent algorithm prevents routing if a female employee is the first pick up or last drop without an escort in the vehicle.
+	Only Solution with three options for Routing- Intelligent, Fixed and Mirror Routing
+
+Shuttle services: Configure routes and stops, set timings and fare, apply policies, assign buses, view route suggestions, usage and more. 
+	Virtual Bus Stops and Zone-Based Routing: For shuttle or bus services, implement virtual bus stops to facilitate efficient pickups and drop-offs. Additionally, consider zone-based routing to ensure each service area is served
+
+Manage Fleet: Add and manage all vehicle details in your transportation fleet with their current status.
+Manage Drivers: Quickly create and add new driver profiles to your fleet Admin can view a list of all the drivers with their current status.
+Manage Employees: Maintain an employee database with their trip history and other records.
+Toll Master: Add new toll routes employee / delete / edit
+Penalty Master: if find the any compliance issue put penalty 
+User role management: Managing employee and driver profiles, roles, and permissions.
+Vendor onboarding and management: Add new vendor / delete / edit
+	Service Registration: Allow transportation vendors to register themselves, providing company details, fleet information (types of vehicles, capacity), certifications.
+	Verification and Approval Workflows: Implement automated and manual verification processes to validate vendor information, ensuring compliance with company and regulatory standards. This might include background safety checks.
+	Contract Management: Integrate contract management features to track contracts, automate renewals, and store relevant terms and conditions with alerts for expiring documents. 
+	Documentation Management: Provide a secure platform for vendors to upload and manage documents like GST certificates, PAN cards, bank account details, NDAs, SLAs, and insurance certificates.
+
+Manage Requests: Admin can view and approve/reject transportation requests from the employees.
+Manage Billing: View and manage all trip expenses, configure expense calculation settings and more.
+•	Complete Separate Billing Module Available Covering All Aspects Of Transport Billing
+•	Different Billing Type Can Be Inputted
+•	EV Billing Option Available
+
+Customized Billing Module: Generate and analyze reports on various aspects like cost analysis.
+	Manage and view all trip expenses and configure billing calculations.
+	Implement automated billing and invoice generation based on different models (e.g., trip-based, route-based, per KM).
+	Automated billing and invoice generation.
+	Facilitate the creation and management of invoices and bills based on completed trips, mileage, or other agreed-upon metrics.
+	No more waiting for bill approvals, our solution has a automated billing system . It is completely digitized for a hassle free billing.
+
+Mobile App for Admins: Optional mobile app for admins to manage operations on the go.
+SMS & Calls: Allow drivers and employees sms and call recording Reports.
+Security Dashboard: The app includes a security dashboard that allows for monitoring of vehicle movement and alerts in case of any issues. 
+Safety & Security: Features like emergency alerts, geofencing, and speed monitoring.
+Safe Drop Confirmation: employees to confirm safe arrival through OTP verification or IVR call Reports.
+Audit Ready: Keep your operations audit-ready with a detailed log for each and every trip.
+incident Report: This Transport Safety Information provides advice on vehicle incident investigation management report record.
+Communication Tools: Broadcasting announcements or messages to employees and drivers.
+•	We have a Communication Portal for the users
+•	Inbuilt communication portal for client to plan event based communication to different users on transport.
+•	Communications can be sent by in-app notifications, SMS or email. Client can to send in any the modes.
+•	IVRS calling also available to as security feature to avoid mobile number visibility
+
+Reporting & Analytics: Get useful stats and numbers for better operational insights and analysis.
+	Enhanced Feedback Report
+	Driver Reject Report
+	Safe Home Report
+	OTA OTD Summary Report
+	No Show Report
+	ERN Consolidated Report
+	Shift Wise Count Report
+	Cab Trip Sheet
+	Vehicle Change Report
+	Board Copy Report
+	SPOC No Show Report
+	Employee Shuttle Trip Report
+	Daily Package Wise Billing Report
+	Monthly Package Wise Billing Report
+	Back-To-Back Trips Report
+	Manual Close Details
+	Escort Trips
+	Shuttle Trip Sheet
+	Escort Change Log
+	Speed violation
+	Trip Member No Show Approval Report
+	Security Trip Report
+	Feedback Report
+	Employee Cab Trip Report
+	Geofence Report 
+	Roster Cancellation Report
+	Roster Changes Report
+	Adhoc Report
+	Roster Report
+	Drivers Using Mobile App
+	Employee Details Report
+	New Joinee
+	Employees Using Mobile App
+	Address Change
+	Vehicle Distance Travelled Report
+	Travel Path Report
+	Vehicle Trip Report
+	SMS Reports
+	Call Masking Report
+	Deleted Employees
+	Deleted Drivers
+	Deleted Vehicles
+	SOS Report
+
+amazing features Of Transport Management System
+Differential Booking Modules
+Robust Rostering System
+Customization
+Transparent Business Operations
+User Defined Customer Reports
+Speed Violation Monitoring
+E-Trip Sheet
+Geofence Based Authentication
+		
+
+A complete solution to automate employee transportation operations by MK_ETMS
